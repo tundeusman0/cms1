@@ -1,0 +1,10 @@
+html{
+    margin: 0 auto;
+    color: red;
+}
+body{
+    background: rgba(253, 250, 250, 0.849);
+}
+.top-nav{
+    background: #272727af;
+}
